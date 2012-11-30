@@ -1,0 +1,12 @@
+﻿Name: Contrib.Cache.Memcached
+AntiForgery: enabled
+Author: Sébastien Ros
+Website: https://github.com/sebastienros/Contrib.Cache.Memcached
+Version: 1.0
+OrchardVersion: 1.0
+Description: Uses Memcached to store output cache entries.
+Features:
+    Contrib.Cache.Memcached:
+        Description: Uses Memcached to store output cache entries.
+		Dependencies: Contrib.Cache
+        Category: Performance
